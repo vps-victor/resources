@@ -8,7 +8,8 @@ To not infringe copyrights and keep it well structured, I decided to create my o
 - [Accessibility - BR terms](https://desculpenaoouvi.com.br/terminologias-atuais-para-falar-sobre-deficiencia/)
 - [Web Content Accessibility Guidelines - WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
-#html
+#html #flexbox #css
+- [Flexbox - Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 #git
 

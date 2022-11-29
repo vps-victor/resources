@@ -3,15 +3,16 @@
 This repository has only one purpose, save all my resources in one place, where I can review them whenever necessary.  
 To not infringe copyrights and keep it well structured, I decided to create my own patterns of objectives and process all material before saving them here. If you find a copyright infringement, please contact me via Linkedin.
 
+#markdown
+- [Cheatsheet](https://www.markdownguide.org/extended-syntax#footnotes)
+- Collapse text `<details><summary>title</summary>content</details>`
 
-#figma #accessibility #design
-- [Accessibility - BR terms](https://desculpenaoouvi.com.br/terminologias-atuais-para-falar-sobre-deficiencia/)
-- [Web Content Accessibility Guidelines - WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
+#ssh #bitbucket  
+- Add ssh to bitbucket `ssh-keygen -f <keyname>`, `eval $(ssh-agent) && ssh-add ~/.ssh/<keyname>`
 
-#html #flexbox #css
-- [Flexbox - Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
-#git
+#az900 #cloud
+- [Global geography](https://azure.microsoft.com/en-us/explore/global-infrastructure/geographies/)
+- [Pricing and Calculator](https://azure.microsoft.com/en-us/pricing/)
 
 #gcp #cloud #cost #pricing
 - [Free tier - products](https://cloud.google.com/free)

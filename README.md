@@ -10,11 +10,15 @@ To not infringe copyrights and keep it well structured, I decided to create my o
 #ssh #bitbucket  
 - Add ssh to bitbucket `ssh-keygen -f <keyname>`, `eval $(ssh-agent) && ssh-add ~/.ssh/<keyname>`
 
-#az900 #cloud
-- [Global geography](https://azure.microsoft.com/en-us/explore/global-infrastructure/geographies/)
-- [Pricing and Calculator](https://azure.microsoft.com/en-us/pricing/)
+#cloud #azure
+- Geography -> (Region Pair) Region -> Avaiability zone -> Resource (Avaiability set)
+- [Pricing and Calculator](https://azure.microsoft.com/en-us/pricing/)  
+- Management groups -> Subscription -> Resource groups -> resources
+- [Billing Account, Profile, and Invoice](https://learn.microsoft.com/en-us/azure/cost-management-billing/understand/mosp-new-customer-experience)
+- [Azure CLI - All commands](https://learn.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest#commands)
 
-#gcp #cloud #cost #pricing
+
+#cloud #gcp
 - [Free tier - products](https://cloud.google.com/free)
 - [Cost calculator - estimate](https://cloud.google.com/products/calculator)
 - [Pricing list - documentation](https://cloud.google.com/pricing/list)

@@ -1,9 +1,8 @@
 ![182218898-583373c2-5f2e-4484-b921-83f361c44451](https://user-images.githubusercontent.com/105178616/201560133-b45ec763-0f6c-48b4-b4d2-c6b4dac549a0.png)
-# ABOUT
 This repository has but one goal, to save all my resources in one place where I can examine them when necessary.  
 All content is tagged and processed before it is committed here or linked to your source URL if it was not processed. If you find an infringement of copyright, contact me through [LinkedIn](https://www.linkedin.com/in/vps-victor/).
 
-# CONTENT
+
 #markdown
 - [Cheatsheet](https://www.markdownguide.org/extended-syntax#footnotes)
 - Collapse text `<details><summary>title</summary>content</details>`
@@ -31,8 +30,8 @@ All content is tagged and processed before it is committed here or linked to you
 - [Well-Architected PDF](https://docs.aws.amazon.com/wellarchitected/latest/userguide/intro.html)
 - AWS Pricing Calculator (Cloud) VS TCO Calculator (On-premisse)
 - AWS drive of cost
-  - Storage (always) + instance running=yes (instance stoped=no) + Instance type + pricing model
-  - + Load balancing + Detailed monitoring + Elastic IP (max. 1/enabled EC2) + Paid OS & Software Package
+  - Storage (always) + instance running=yes (instance stoped=no) + Instance type + pricing model +
+  - Load balancing + Detailed monitoring + Elastic IP (max. 1/enabled EC2) + Paid OS & Software Package
 - AWS Budget (before) vs AWS Cost Explorer (After)
 
 #cloud digital ocean  

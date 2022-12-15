@@ -36,3 +36,7 @@ All content is tagged and processed before it is committed here or linked to you
 
 #cloud digital ocean  
 - [DO - API Reference](https://docs.digitalocean.com/reference/api/api-reference/)
+
+#docker #container #wordpress
+- run and connect wordpress to db container 
+  - `sudo docker container run -d --name=<wordpress-container-name> -e WORDPRESS_DB_HOST=<db-container-ip> -e WORDPRESS_DB_NAME=<db-name-inside-container> -e WORDPRESS_DB_USER=<choose-a-username> -e WORDPRESS_DB_PASSWORD=<choose-a-strong-password> -p 0.0.0.0:80:80 --restart=always wordpress:latest`

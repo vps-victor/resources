@@ -28,7 +28,7 @@ All content is tagged and processed before it is committed here or linked to you
 
 #cloud #aws
 - [Well-Architected PDF](https://docs.aws.amazon.com/wellarchitected/latest/userguide/intro.html)
-- AWS Pricing Calculator (Cloud) VS TCO Calculator (On-premisse)
+- [AWS Total Cost Calculator](https://calculator.aws/)
 - AWS drive of cost
   - Storage (always) + instance running=yes (instance stoped=no) + Instance type + pricing model +
   - Load balancing + Detailed monitoring + Elastic IP (max. 1/enabled EC2) + Paid OS & Software Package
